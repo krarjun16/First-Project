@@ -1,11 +1,8 @@
 
 ![Python](https://user-images.githubusercontent.com/86010488/130737501-0d83852e-65db-4f73-9457-03d264333014.jpg)
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate fDetail-focused Data Analyst with knowledge in data cleaning, analysis, visualization, and business needs analysis.rontend developer from India</h3>
+<h3 align="center">A passionate Detail-focused Data Analyst with knowledge in data cleaning, analysis, visualization, and business needs analysit from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krarjun16&label=Profile%20views&color=0e75b6&style=flat" alt="krarjun16" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krarjun16" alt="krarjun16" /></a> </p>
 
 - 🔭 I’m currently working on [Data Scraping](https://github.com/krarjun16)
 
