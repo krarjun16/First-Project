@@ -1,7 +1,7 @@
 
 ![Python](https://user-images.githubusercontent.com/86010488/130737501-0d83852e-65db-4f73-9457-03d264333014.jpg)
 <h1 align="center">Hi 👋, I'm Arjun</h1>
-<h3 align="center">A passionate Detail-focused Data Analyst with knowledge in data cleaning, analysis, visualization, and business needs analysit from India</h3>
+<h3 align="center">A passionate Detail-focused Data Analyst with knowledge in data cleaning, analysis, visualization, and business needs analyst from India</h3>
 
 
 - 🔭 I’m currently working on [Data Scraping](https://github.com/krarjun16)
